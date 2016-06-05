@@ -4,13 +4,10 @@
 =============================================
 
 <table>
-<thead>
   <tr>
-    <th width="40%" align="center"><p>Зміст навчального матеріалу</p></td>
-    <th width="60%" align="center"><p>Державні вимоги до рівня загальноосвітньої підготовки учнів</p></td>
+    <td width="40%" align="center"><b>Зміст навчального матеріалу<b></td>
+    <td width="60%" align="center"><b>Державні вимоги до рівня загальноосвітньої підготовки учнів</b></td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td width="40%" style="vertical-align:top !important;">
     <b>Робота з презентаціями. (4 год.)</b><br>
@@ -33,7 +30,6 @@
   <i>демонструє</i> створену презентацію, <i>коментує</i> її зміст.
 	</td>
   </tr>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

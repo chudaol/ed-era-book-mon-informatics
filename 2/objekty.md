@@ -4,13 +4,10 @@
 =============================================
 
 <table>
-<thead>
   <tr>
-    <th width="40%" align="center"><p>Зміст навчального матеріалу</p></td>
-    <th width="60%" align="center"><p>Державні вимоги до рівня загальноосвітньої підготовки учнів</p></td>
+    <td width="40%" align="center"><b>Зміст навчального матеріалу<b></td>
+    <td width="60%" align="center"><b>Державні вимоги до рівня загальноосвітньої підготовки учнів</b></td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td width="40%" style="vertical-align:top !important;">
     <b>Об’єкти. Графічний редактор. (8 год.)</b><br>
@@ -35,7 +32,6 @@
   <i>відкриває</i> в середовищі графічного редактора збережені зображення.<br>
 	</td>
   </tr>
-</tbody>
 </table>
 
 <div class="js-hypercomments-container">

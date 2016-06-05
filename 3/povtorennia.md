@@ -4,13 +4,10 @@
 =============================================
 
 <table>
-<thead>
   <tr>
-    <th width="40%" align="center"><p>Зміст навчального матеріалу</p></td>
-    <th width="60%" align="center"><p>Державні вимоги до рівня загальноосвітньої підготовки учнів</p></td>
+    <td width="40%" align="center"><b>Зміст навчального матеріалу<b></td>
+    <td width="60%" align="center"><b>Державні вимоги до рівня загальноосвітньої підготовки учнів</b></td>
   </tr>
-</thead>
-<tbody>
   <tr>
     <td width="40%" style="vertical-align:top !important;">
     <b>Повторення, узагальнення і систематизація навчального матеріалу за 2-й клас. (2 год.)</b><br>
@@ -18,8 +15,7 @@
     <td width="60%" style="vertical-align:top !important;">
 	</td>
   </tr>
-</tbody>
-</table>
+  </table>
 
 <div class="js-hypercomments-container">
 <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
